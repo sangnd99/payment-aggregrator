@@ -1,0 +1,25 @@
+{
+  "name": "payment-aggregrator",
+  "version": "1.0.0",
+  "description": "sangnd's app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --inspect index.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangnd99/payment-aggregrator.git"
+  },
+  "author": "sangnd99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangnd99/payment-aggregrator/issues"
+  },
+  "homepage": "https://github.com/sangnd99/payment-aggregrator#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
